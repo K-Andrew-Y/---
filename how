@@ -1,0 +1,41 @@
+[33mcommit 583b34b407762d38f23887269385f156a35fffe0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Merge: 2647284 8a1a917
+Author: К-Эндрю-Ю <kozmaprudkov@gmail.com>
+Date:   Tue Oct 22 16:27:10 2024 +0300
+
+    Merge branch 'new'
+    # Please enter a commit message to explain why this merge is necessary,
+    # especially if it merges an updated upstream into a topic branch.
+    #
+    # Lines starting with '#' will be ignored, and an empty message aborts
+    # the commit.
+
+[33mcommit 8a1a91716d2f754d4dec4fba6792a4f8d87677a6[m[33m ([m[1;32mnew[m[33m)[m
+Author: К-Эндрю-Ю <kozmaprudkov@gmail.com>
+Date:   Tue Oct 22 15:57:35 2024 +0300
+
+    Добавлен фаил hello
+
+[33mcommit 26472843f7d9b5a77600b89706e4085dc5deaec1[m
+Author: К-Эндрю-Ю <kozmaprudkov@gmail.com>
+Date:   Tue Oct 22 15:49:27 2024 +0300
+
+    Добавлен фаил hello
+
+[33mcommit 9628299de7b56cd10293aaeb8630e6296da6eb60[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: К-Эндрю-Ю <kozmaprudkov@gmail.com>
+Date:   Tue Oct 22 15:05:04 2024 +0300
+
+    Первый коммит
+
+[33mcommit 015b9bf1fe8a9e8845e482639a8ceb36fd154912[m[33m ([m[1;32mamazing_new_feature[m[33m)[m
+Author: К-Эндрю-Ю <kozmaprudkov@gmail.com>
+Date:   Wed Oct 2 18:24:00 2024 +0300
+
+    New feature complete
+
+[33mcommit d946de8e0ef1a232c5d4a414a12e2d9cd0df1f55[m
+Author: К-Эндрю-Ю <kozmaprudkov@gmail.com>
+Date:   Wed Oct 2 16:41:52 2024 +0300
+
+    Initial commit
